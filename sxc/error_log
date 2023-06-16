@@ -1,0 +1,6 @@
+[08-Apr-2022 07:46:33 UTC] PHP Warning:  Undefined variable $sender in /home/toolsangelhost/public_html/sxc/config/.locationError.php on line 3
+[08-Apr-2022 07:46:33 UTC] PHP Warning:  Undefined variable $sender in /home/toolsangelhost/public_html/sxc/email.php on line 502
+[08-Apr-2022 07:51:50 UTC] PHP Warning:  Undefined variable $sender in /home/toolsangelhost/public_html/sxc/config/.locationError.php on line 3
+[08-Apr-2022 07:51:50 UTC] PHP Warning:  Undefined variable $sender in /home/toolsangelhost/public_html/sxc/email.php on line 502
+[08-Apr-2022 07:53:11 UTC] PHP Warning:  Undefined variable $sender in /home/toolsangelhost/public_html/sxc/config/.locationError.php on line 3
+[08-Apr-2022 07:53:11 UTC] PHP Warning:  Undefined variable $sender in /home/toolsangelhost/public_html/sxc/email.php on line 502
